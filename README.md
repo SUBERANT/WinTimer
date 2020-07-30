@@ -1,4 +1,4 @@
-![alt WinTimer](     
+![alt WinTimer](https://github.com/SUBERANT/WinTimer/blob/master/Screenshot.png)     
 [RUS]     
 WinTimer - таймер для выключения компьютера, написанный на языке python.     
 [ENG]     
